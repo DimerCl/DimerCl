@@ -2,7 +2,7 @@
 
 :computer: Backend developer 👤
 
-🎂: 00010100/00001001
+🎂: 00011011/00001001
 
 Fan de las camionetas 🛻
 
