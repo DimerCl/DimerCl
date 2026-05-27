@@ -5,7 +5,7 @@
 Day: 00011011
 
 # 💫 About Me:
-<br>🚀 Mi Enfoque para 2026 Actualmente centrado en dominar el ecosistema Full Stack, con un compromiso de código diario.<br>
+<br>🚀 Mi Enfoque para 2026 Actualmente centrado en dominar el ecosistema Back End, con un compromiso de código diario.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/cl.dimery)
