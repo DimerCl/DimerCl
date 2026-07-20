@@ -1,6 +1,6 @@
 ## Hi  👋
 
-:computer: Backend developer 👤
+#BACKEND DEVELOPER
 
 00011011
 
